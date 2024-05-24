@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, somos Samara Leticia Gomes Severino, Yasmin Alvez de Castilho, Izabelle Ferreiro de Castro e Elianne Pimentel de Paula Xavier.
+Estamos nos desenvolvendo em linguagem de javascript.
+Utilizamos esse espaço para organização e compartilhamento dos nossos projetos desenvolvidos.
 
 <!--
 **QuatroMaritacas/QuatroMaritacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
